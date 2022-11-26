@@ -1,4 +1,4 @@
-# Welcome to GigaClient GitHub 👋
+# Welcome to Fluid LLC, GitHub 👋
 
 Here at Fluid LLC, we thrive to become the next best minecraft client for you!
 
