@@ -6,7 +6,6 @@ Here at Pingtest LLC, we thrive to become the next best minecraft client for you
   * A complete new launcher with more exciting features
   * Ways to customize the game and unlock features blocked by servers and remove useless features
   * Fully open source projects
-  * A stats proxy for Hypixel
   * And much more coming soon!
 
 # How do we communicate 💬
